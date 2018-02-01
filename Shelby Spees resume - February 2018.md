@@ -1,0 +1,39 @@
+# Resume
+[pdf resume](https://drive.google.com/file/d/1yKY5gEq7QQzs7bepG5I2GnNm2BcDUheX/view?usp=sharing) | [plain text resume]()
+linkedin.com/in/shelbyspees  
+github.com/shelbyspees  
+twitter.com/shelbyspees
+
+### Summary
+Software engineer with 3 years of experience developing tools in Ruby, Python, Java. Strong knowledge of Git, experience with GitHub and TravisCI. Seeking opportunities in Los Angeles, CA.
+
+### Experience
+**Associate Site Reliability Engineer**, Aug 2017 - Jan 2018  
+Grindr LLC., West Hollywood, CA  
+* Developed open-source RPM build orchestration tool in Ruby to enable CI/CD for CentOS 7 packages
+* github.com/grindrlabs/revolution
+
+**Software Engineer** (Official Title: Associate Member of Technical Staff), Sep 2015 - Aug 2017  
+The Aerospace Corporation, El Segundo, CA  
+* Implemented Java translation tool with custom ANTLR4 parser grammar. Translation tool parses legacy code in proprietary language ModSim III and translates to C++
+* Developed PySOAP, a Python API for GUI satellite orbit modeling tool
+
+**Software Engineer Intern** (Official Title: Undergrad Technical Staff III), June 2015 - Aug 2015  
+The Aerospace Corporation, El Segundo, CA  
+* Implemented proof-of-concept Java pretty printer tool using custom ANTLR4 parser grammar for ModSim III legacy code
+* Developed Python scripts to automate formatting process for launch mission database files, integrating existing VBA macros
+	
+**QA Automation Intern**, Dec 2014 - Mar 2015  
+XYPRO Technology, Simi Valley, CA   
+* Developed UI and API test suite in Ruby using Watir-Webdriver
+	
+### Education
+June 2014 - June 2016  
+**Computer Science coursework**  
+Oregon State University E-campus  
+GPA: 3.83
+
+Graduated June 2012  
+**Bachelor of Arts, Linguistics**  
+University of California, Santa Barbara  
+GPA: 3.48

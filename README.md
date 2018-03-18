@@ -1,7 +1,7 @@
 # Resume
 
 ### Summary
-Software engineer with 3 years of experience developing tools in Ruby, Python, Java. Strong knowledge of Git, experience with GitHub and TravisCI. Seeking opportunities in Los Angeles, CA.
+Software engineer with 2 years of experience developing tools in Ruby, Python, Java. Strong knowledge of Git, experience with GitHub and TravisCI. Seeking opportunities in Los Angeles, CA.
 
 ### Experience
 **Associate Site Reliability Engineer**, Aug 2017 - Jan 2018  

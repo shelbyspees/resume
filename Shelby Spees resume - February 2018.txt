@@ -1,4 +1,4 @@
-Shelby Spees: Software Engineer
+Shelby Spees: Software Engineer / SRE
 
 linkedin.com/in/shelbyspees
 github.com/shelbyspees
@@ -9,6 +9,11 @@ Software engineer with 2 years of experience developing tools in Ruby, Python, J
 
 Experience
 ----------
+Junior Site Reliability Engineer (Contract), June 2018 - present
+true[x], Los Angeles, CA
+- Updated config file generation scripts to comply with network architecture improvements
+- Improved documentation re: managing repository secrets
+
 Associate Site Reliability Engineer, Aug 2017 - Jan 2018
 Grindr LLC., West Hollywood, CA
 - Developed open-source RPM build orchestration tool in Ruby to enable CI/CD for CentOS 7 packages

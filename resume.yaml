@@ -1,0 +1,65 @@
+---
+
+top:
+  name: Shelby Spees
+  title: Software Engineer / SRE
+
+links:
+  - linkedin.com/in/shelbyspees
+  - github.com/shelbyspees
+
+summary:
+  - Polyglot engineer who loves making things work better.
+  - I enjoy using Ruby, Python, and Git.
+  - Currently working out of Los Angeles, CA.
+
+experience:
+  - title: Junior Site Reliability Engineer (Contract)
+    dates: June 2018 - present
+    company: true[x]
+    location: Los Angeles, CA
+    bullets:
+      - Updated config file generation scripts to comply with network architecture improvements
+      - Improved documentation for managing repository secrets
+
+  - title: Associate Site Reliability Engineer
+    dates: Aug 2017 - Jan 2018
+    company: Grindr LLC.
+    location: West Hollywood, CA
+    bullets:
+      - Developed open-source RPM build orchestration tool in Ruby to enable CI/CD for CentOS 7 packages
+      - github.com/grindrlabs/revolution
+
+  - title: Software Engineer (Official Title: Associate Member of Technical Staff)
+    dates: Sep 2015 - Aug 2017
+    company: The Aerospace Corporation
+    location: El Segundo, CA
+    bullets:
+      - Implemented Java translation tool with custom ANTLR4 parser grammar. Translation tool parses legacy code in proprietary language ModSim III and translates to C++
+      - Developed PySOAP, a Python API for GUI satellite orbit modeling tool
+
+  - title: Software Engineer Intern (Official Title: Undergrad Technical Staff III)
+    dates: June 2015 - Aug 2015
+    company: The Aerospace Corporation
+    location: El Segundo, CA
+    bullets:
+      - Implemented proof-of-concept Java pretty printer tool using custom ANTLR4 parser grammar for ModSim III legacy code
+      - Developed Python scripts to automate formatting process for launch mission database files, integrating existing VBA macros
+	
+  - title: QA Automation Intern
+    dates: Dec 2014 - Mar 2015
+    company: XYPRO Technology
+    location: Simi Valley, CA 
+    bullets:
+      - Developed UI and API test suite in Ruby using Watir-Webdriver
+	
+education:
+  - degree: Computer Science coursework
+    dates: June 2014 - June 2016
+    school: Oregon State University E-campus
+    gpa: 3.83
+
+  - degreee: Bachelor of Arts, Linguistics
+    dates: Graduated June 2012
+    school: University of California, Santa Barbara
+    gpa: 3.48

@@ -30,7 +30,8 @@ experience:
       - Developed open-source RPM build orchestration tool in Ruby to enable CI/CD for CentOS 7 packages
       - github.com/grindrlabs/revolution
 
-  - title: Software Engineer (Official Title: Associate Member of Technical Staff)
+  - title: Software Engineer
+    official_title: Associate Member of Technical Staff
     dates: Sep 2015 - Aug 2017
     company: The Aerospace Corporation
     location: El Segundo, CA
@@ -38,21 +39,22 @@ experience:
       - Implemented Java translation tool with custom ANTLR4 parser grammar. Translation tool parses legacy code in proprietary language ModSim III and translates to C++
       - Developed PySOAP, a Python API for GUI satellite orbit modeling tool
 
-  - title: Software Engineer Intern (Official Title: Undergrad Technical Staff III)
+  - title: Software Engineer Intern
+    official_title: Undergrad Technical Staff III
     dates: June 2015 - Aug 2015
     company: The Aerospace Corporation
     location: El Segundo, CA
     bullets:
       - Implemented proof-of-concept Java pretty printer tool using custom ANTLR4 parser grammar for ModSim III legacy code
       - Developed Python scripts to automate formatting process for launch mission database files, integrating existing VBA macros
-	
+
   - title: QA Automation Intern
     dates: Dec 2014 - Mar 2015
     company: XYPRO Technology
     location: Simi Valley, CA 
     bullets:
       - Developed UI and API test suite in Ruby using Watir-Webdriver
-	
+
 education:
   - degree: Computer Science coursework
     dates: June 2014 - June 2016

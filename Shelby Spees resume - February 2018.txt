@@ -5,7 +5,9 @@ github.com/shelbyspees
 
 Summary
 ----------
-Software engineer with 2 years of experience developing tools in Ruby, Python, Java. Strong knowledge of Git, experience with GitHub and TravisCI. Seeking opportunities in Los Angeles, CA.
+Polyglot engineer who loves making things work better.
+I enjoy using Ruby, Python, and Git.
+Currently working out of Los Angeles, CA.
 
 Experience
 ----------

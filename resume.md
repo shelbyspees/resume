@@ -44,7 +44,7 @@
 - Mentored junior teammate in soft skills and technical skills, including Git workflows
 
 ### The Aerospace Corporation | <small>El Segundo, CA</small> 
-**Software Engineer** (Associate Member of Technical Staff), Sep 2015 - Aug 2017
+**Software Engineer** (Associate Member of Technical Staff), September 2015 to August 2017
 
 **Project:** DyCAST Translator Tool
 
@@ -68,7 +68,7 @@
 - Built and deployed static Jekyll site to host user-facing API documentation
 - Mentored and directly supervised freshman intern. Tasked intern with expanding test coverage. By the end of summer she was writing new features!
 
-**Software Engineer Intern** (Undergrad Technical Staff III), June 2015 - Aug 2015  
+**Software Engineer Intern** (Undergrad Technical Staff III), June 2015 to August 2015  
 
 **Project:** DyCAST Translator Tool
 
@@ -81,7 +81,7 @@
 
 ### XYPRO Technology | <small>Simi Valley, CA</small> 
 
-**QA Automation Intern**, Dec 2014 - Mar 2015  
+**QA Automation Intern**, December 2014 to March 2015  
 
 - Developed automated tests for security dashboard web application
 - Expanded and refactored UI and API test suite in Ruby using Watir-Webdriver
@@ -89,7 +89,7 @@
 	
 ## Education
 
-**Computer Science coursework**, June 2014 - June 2016  
+**Computer Science coursework**, June 2014 to June 2016  
 Oregon State University E-campus  
 GPA: 3.83
 

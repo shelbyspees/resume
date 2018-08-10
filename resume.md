@@ -4,18 +4,14 @@ Los Angeles, CA
 
 ## Summary
 
-- 1 year of experience managing server configuration and maintaining deployment pipelines
-- Before that, 2 years of experience developing software tools for aerospace engineers
-- Lead teams and mentored interns, taught classes for other engineers, developed onboarding docs from scratch
-- Let me help you solve engineering problems with better engineering and process problems with better process
-
-Languages: I mainly live in Ruby, but sometimes I use Python or Bash
-
-Tools: I like using Git. I have experience with GitHub, Jenkins, TravisCI
-
-AWS: EC2, S3, DynamoDB, Route53
-
-Seeking opportunities in Los Angeles, CA
+- 1 year of experience developing and maintaining deployment pipeline tools
+- Before that, I spent 2 years developing software tools for aerospace engineers
+- I've lead teams and mentored interns, taught classes for other engineers, and developed onboarding docs from scratch
+- Languages: Ruby, Python, Bash, JavaScript
+- Frameworks: Rails, Express.js, AngularJS
+- Tools: Git, GitHub, Jenkins, TravisCI
+- AWS: EC2, S3, DynamoDB, Route53
+- Configuration: Chef, Ansible, Terraform
 
 ## Experience
 
@@ -24,9 +20,23 @@ Seeking opportunities in Los Angeles, CA
 **Junior Site Reliability Engineer (Contract)**  
 June 2018 to present
 
-- Leveraged AWS Application Autoscaling to adjust DynamoDB read/write capacity to handle regular spikes in activity, saving $$$/week
-- Organized and updated technical onboarding documentation
-- Managed app server configuration with Chef cookbooks
+- Leveraged AWS Application Autoscaling to scale DynamoDB read/write capacity for regular spikes in activity, saving more than $3000/month in capacity costs
+- Organized and expanded technical onboarding documentation, incorporating company-internal git etiquette guidelines
+- Managed Chef cookbooks for app server configuration
+- Worked closely with Data Engineering team to isolate and debug deployment issue on Airflow server
+- Updated Chef data bags for user access permissions and to DRY up cookbooks
+- Initiated test suite built-out and AWS Ruby SDK upgrade in internally-developed Rails deployment tool
+- Updated Terraform codebase to manage IP whitelist for new VPN provider
+
+### Event Simple | <small>Carson, CA</small>  
+
+**Software Engineer Consultant (Volunteer)**
+April to May 2018
+
+- Consulted on design specification for event planning and budget application
+- Refactored Express.js codebase to use environment variables for API keys and other secrets
+- Built prototype Todo checklist feature using Sockets.io
+- Developed Vendor Search functionality using Yelp API
 
 ### Grindr | <small>West Hollywood, CA</small>
 

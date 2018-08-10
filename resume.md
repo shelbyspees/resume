@@ -25,7 +25,7 @@ June 2018 to present
 - Managed Chef cookbooks for app server configuration
 - Worked closely with Data Engineering team to isolate and debug deployment issue on Airflow server
 - Updated Chef data bags for user access permissions and to DRY up cookbooks
-- Initiated test suite built-out and AWS Ruby SDK upgrade in internally-developed Rails deployment tool
+- Initiated test suite build-out and AWS Ruby SDK upgrade in internally-developed Rails deployment tool
 - Updated Terraform codebase to manage IP whitelist for new VPN provider
 
 ### Event Simple | <small>Carson, CA</small>  

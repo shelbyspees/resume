@@ -8,7 +8,6 @@
 - 2 years of experience developing and maintaining build tools
 - 1 year of experience managing infrastructure on AWS
 - Previously, 2 years of experience developing software tools for aerospace engineers
-
 - Languages: Ruby, Python, Bash, JavaScript
 - Frameworks: Rails, Express.js, AngularJS
 - Tools: Git, GitHub, Jenkins, TravisCI

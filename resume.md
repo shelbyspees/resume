@@ -4,27 +4,33 @@
 
 ## Summary
 
-- 1 year of experience developing and maintaining deployment pipeline tools
+4 years of experience, broken down:
+- 2 years of experience developing and maintaining build tools
+- 1 year of experience managing infrastructure on AWS
 - Previously, 2 years of experience developing software tools for aerospace engineers
+
 - Languages: Ruby, Python, Bash, JavaScript
 - Frameworks: Rails, Express.js, AngularJS
 - Tools: Git, GitHub, Jenkins, TravisCI
-- AWS: EC2, S3, DynamoDB, Route53
-- Configuration: Chef, Ansible, Terraform
+- Configuration: Chef, Terraform
 
 ## Experience
 
 ### true[X] | <small>Los Angeles, CA</small>
 
-**Junior Site Reliability Engineer (Contract)**, June 2018 to present
+**DevOps Engineer**, August 2018 to present
+- Updated and expanded documentation on DevOps processes and capabilities, most notably for New App requests
+- Safely upgraded backend systems from Chef 12 to Chef 14 via gradual rollout across 42 Chef cookbooks
+- Expanded team capabilities to support polyglot engineering organization's new Rails, Node, and Flask apps
+- Developed Jenkins jobs to simplify and document infrastructure changes via Terraform 
 
-- Leveraged AWS Application Autoscaling to scale DynamoDB read/write capacity for regular spikes in activity, saving more than $3000/month in capacity costs
+**Junior Site Reliability Engineer (Contract)**, June 2018 to August 2018
 - Organized and expanded technical onboarding documentation, incorporating company-internal git etiquette guidelines
 - Managed Chef cookbooks for app server configuration
+- Updated Terraform codebase to modify network configuration
+- Leveraged AWS Application Autoscaling to scale DynamoDB read/write capacity for regular spikes in activity, saving more than $3000/month in capacity costs
 - Worked closely with Data Engineering team to isolate and debug deployment issue on Airflow server
-- Updated Chef data bags for user access permissions and to DRY up cookbooks
 - Initiated test suite build-out and AWS Ruby SDK upgrade in internally-developed Rails deployment tool
-- Updated Terraform codebase to manage IP whitelist for new VPN provider
 
 ### Event Simple | <small>Carson, CA</small>  
 

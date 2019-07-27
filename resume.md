@@ -8,8 +8,7 @@
 - 2 years of experience developing and maintaining build tools
 - 1 year of experience managing infrastructure on AWS
 - Previously, 2 years of experience developing software tools for aerospace engineers
-- Languages: Ruby, Python, Bash, JavaScript
-- Frameworks: Rails, Express.js, AngularJS
+- Languages: Ruby, Python,
 - Tools: Git, GitHub, Jenkins, TravisCI
 - Configuration: Chef, Terraform
 
@@ -18,10 +17,12 @@
 ### true[X] | <small>Los Angeles, CA</small>
 
 **DevOps Engineer**, August 2018 to present
+- Safely upgraded Chef version on backend systems via gradual upgrade of 42 Chef cookbooks and AMI rollout across 14 production apps
 - Updated and expanded documentation on DevOps processes and capabilities, most notably for New App requests
-- Safely upgraded backend systems from Chef 12 to Chef 14 via gradual rollout across 42 Chef cookbooks
-- Expanded team capabilities to support polyglot engineering organization's new Rails, Node, and Flask apps
-- Developed Jenkins jobs to simplify and document infrastructure changes via Terraform 
+- Developed `terraform plan` Jenkins jobs to simplify and document infrastructure changes and PRs
+- Created Chef configurations for new Rails, Node, and Flask apps
+- Pruned team's Chef ecosystem of dead code and unused dependencies
+- Consolidated Ruby installation method
 
 **Junior Site Reliability Engineer (Contract)**, June 2018 to August 2018
 - Organized and expanded technical onboarding documentation, incorporating company-internal git etiquette guidelines
@@ -29,24 +30,14 @@
 - Updated Terraform codebase to modify network configuration
 - Leveraged AWS Application Autoscaling to scale DynamoDB read/write capacity for regular spikes in activity, saving more than $3000/month in capacity costs
 - Worked closely with Data Engineering team to isolate and debug deployment issue on Airflow server
-- Initiated test suite build-out and AWS Ruby SDK upgrade in internally-developed Rails deployment tool
-
-### Event Simple | <small>Carson, CA</small>  
-
-**Software Engineer Consultant (Volunteer)**, April to May 2018
-
-- Consulted on design specification for event planning and budget application
-- Refactored Express.js codebase to use environment variables for API keys and other secrets
-- Built prototype Todo checklist feature using Sockets.io
-- Developed Vendor Search functionality using Yelp API
 
 ### Grindr | <small>West Hollywood, CA</small>
 
 **Associate Site Reliability Engineer**, August 2017 to January 2018  
 
 - Worked with SRE team to reduce downtime and cost, and to improve and migrate to new infrastructure
-- Developed open-source RPM build orchestration tool in Ruby to enable CI/CD for CentOS 7 packages: github.com/grindrlabs/revolution
-- Mentored junior teammate in soft skills and technical skills, including Git workflows
+- Developed rpm package build orchestration tool in Ruby to enable CI/CD for CentOS 7 packages: github.com/grindrlabs/revolution
+- Mentored junior colleagues, teaching team collaboration skills such as Git workflows
 
 ### The Aerospace Corporation | <small>El Segundo, CA</small> 
 **Software Engineer** (Associate Member of Technical Staff), September 2015 to August 2017
